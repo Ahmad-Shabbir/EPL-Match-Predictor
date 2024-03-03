@@ -1,6 +1,6 @@
 # Premier Predictor: Predicting English Premier League Match Winners
 
-![Football Image](football_image.jpg)
+![Football Image](https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png)
 
 ## Overview
 
